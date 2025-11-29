@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from logger import logger
+from bot.logger import logger
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 csv_path = os.path.join(current_dir, "dataset", "diet.csv")
