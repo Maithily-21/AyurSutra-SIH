@@ -11,7 +11,7 @@ from joblib import load
 from nltk import WordNetLemmatizer, word_tokenize
 from sqlalchemy.orm import Session
 
-from database import Chat, Prakriti
+from bot.database import Chat, Prakriti
 from diet import recommend_Diet
 from logger import logger
 from models import ChatResponse, Intents, PrakritBotResponse, Reply, Response
