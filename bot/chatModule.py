@@ -21,7 +21,8 @@ from keras.models import load_model
 from bot.utils import createPDF
 
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = str(0)
-chatBot_Model = load_model(os.path.join("Models", "nlpbot.keras"))
+chatBot_Model = load_model(os.path.join(os.path.dirname(__file__), "Models", "nlpbot.keras"))
+
 words: list = load(os.path.join("Models/words"))
 classes: list = load(os.path.join("Models/classes"))
 prakriti_Model = load_model(os.path.join("Models", "prakriti.keras"))
