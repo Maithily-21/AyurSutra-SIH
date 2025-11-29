@@ -21,12 +21,22 @@ from keras.models import load_model
 from bot.utils import createPDF
 
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = str(0)
-chatBot_Model = load_model(os.path.join(os.path.dirname(__file__), "Models", "nlpbot.keras"))
+# Base directory of this file
+BASE_DIR = os.path.dirname(__file__)
 
-words: list = load(os.path.join("Models/words"))
-classes: list = load(os.path.join("Models/classes"))
-prakriti_Model = load_model(os.path.join("Models", "prakriti.keras"))
-intents: Intents = json.loads(open(os.path.join("intents.json"), "r").read())
+# Load Keras models
+chatBot_Model = load_model(os.path.join(BASE_DIR, "Models", "nlpbot.keras"))
+prakriti_Model = load_model(os.path.join(BASE_DIR, "Models", "prakriti.keras"))
+
+# Load joblib files
+words: list = load(os.path.join(BASE_DIR, "Models", "words"))
+classes: list = load(os.path.join(BASE_DIR, "Models", "classes"))
+
+# Load intents JSON
+with open(os.path.join(BASE_DIR, "intents.json"), "r") as f:
+    intents = json.load(f)
+
+# NLTK lemmatizer
 lemmatizer = WordNetLemmatizer()
 
 
