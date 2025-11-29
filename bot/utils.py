@@ -7,7 +7,10 @@ from nltk.tokenize import sent_tokenize
 from typing import Literal
 import os
 
-df = pd.read_csv(os.path.join("dataset", "videos.csv"))
+current_dir = os.path.dirname(os.path.realpath(__file__))
+csv_path = os.path.join(current_dir, "dataset", "videos.csv")
+
+df = pd.read_csv(csv_path)
 # nltk.download("punkt")
 
 logging.getLogger("weasyprint").setLevel(logging.WARNING)
