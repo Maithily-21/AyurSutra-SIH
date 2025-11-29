@@ -1,7 +1,7 @@
 import logging
 import pandas as pd
-from logger import logger
-from diet import recommend_Diet
+from bot.logger import logger
+from bot.diet import recommend_Diet
 from weasyprint import HTML, CSS
 from nltk.tokenize import sent_tokenize
 from typing import Literal
