@@ -6,10 +6,10 @@ from fastapi.middleware.cors import CORSMiddleware
 from uvicorn import run
 from weasyprint import HTML
 
-from chatModule import chatWithUser
-from database import initDB
+from bot.chatModule import chatWithUser
+from bot.database import initDB
 from logger import logger
-from models import ChatResponse, Reply
+from bot.models import ChatResponse, Reply
 
 app = FastAPI(debug=True, docs_url=None, redoc_url=None)
 session = initDB()
