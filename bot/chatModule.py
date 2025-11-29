@@ -13,12 +13,12 @@ from sqlalchemy.orm import Session
 
 from bot.database import Chat, Prakriti
 from bot.diet import recommend_Diet
-from logger import logger
-from models import ChatResponse, Intents, PrakritBotResponse, Reply, Response
-from question import questions
+from bot.logger import logger
+from bot.models import ChatResponse, Intents, PrakritBotResponse, Reply, Response
+from bot.question import questions
 from keras.models import load_model
 
-from utils import createPDF
+from bot.utils import createPDF
 
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = str(0)
 chatBot_Model = load_model(os.path.join("Models", "nlpbot.keras"))
