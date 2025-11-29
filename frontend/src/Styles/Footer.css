@@ -1,0 +1,116 @@
+.footer-section {
+  background: #040404;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+.footer-container {
+  padding: 60px 48px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  color: white;
+}
+/* Title */
+.ft-title {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-family: "Poppins", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+.ft-title a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.ft-logo {
+  width: 56px;
+  height: 56px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #ff7a18, #ff5300);
+  box-shadow: 0 20px 40px rgba(255, 122, 24, 0.35);
+}
+.ft-logo-icon {
+  width: 28px;
+  height: 28px;
+  color: #ffffff;
+}
+.ft-title small {
+  display: block;
+  font-size: 12px;
+  letter-spacing: 0.4em;
+  color: rgba(255, 255, 255, 0.65);
+}
+.ft-description {
+  max-width: 640px;
+  margin: 16px 0 12px;
+  color: #d0c7c0;
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+  line-height: 1.7rem;
+}
+.ft-contact {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 0;
+  color: #f6f1ec;
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 0.08em;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.ft-contact li span {
+  margin-right: 12px;
+  font-size: 16px;
+}
+/* CopyRight */
+.ft-copyright,
+.ft-copyright p {
+  color: #b1aaa4;
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.ft-copyright {
+  padding: 16px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.ft-copyright p {
+  margin: 0;
+}
+.ft-social-links {
+  display: flex;
+  gap: 12px;
+}
+.ft-social-links li a:hover,
+.ft-social-links li a:hover svg path {
+  fill: #ff7a18;
+  border: 2px solid #ff7a18;
+}
+@media screen and (max-width: 700px) {
+  .footer-container {
+    padding: 32px 24px;
+  }
+  .ft-title {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .ft-copyright {
+    flex-direction: column;
+    gap: 12px;
+    text-align: center;
+  }
+}

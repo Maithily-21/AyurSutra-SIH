@@ -1,0 +1,105 @@
+.about-section {
+  padding: 80px 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+  background: linear-gradient(120deg, #040404 20%, #120802 80%);
+}
+/* Image */
+.about-image-content {
+  width: 50%;
+  max-width: 100%;
+  text-align: center;
+}
+.about-image1 {
+  width: 85%;
+  height: auto;
+  border-radius: 32px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 40px 80px rgba(0, 0, 0, 0.6);
+  filter: saturate(0.9);
+}
+/* Text */
+.about-text-content {
+  width: 50%;
+}
+.about-title {
+  font-family: "Poppins", sans-serif;
+  font-size: clamp(32px, 4vw, 54px);
+  font-weight: bold;
+  color: #ffffff;
+}
+.about-title > span {
+  position: relative;
+}
+.about-title span::before {
+  content: "";
+  position: absolute;
+  width: 70%;
+  height: 4px;
+  background: linear-gradient(90deg, #ff7a18, #ff5300);
+  border-radius: 8px;
+  left: 0;
+  bottom: -12px;
+}
+.about-description {
+  margin: 32px 0;
+  color: #d0c7c0;
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+  line-height: 1.9rem;
+}
+.about-text-title {
+  margin: 0 0 24px 0;
+  color: #ff7a18;
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+/* Steps */
+.about-text-step {
+  margin: 16px 0;
+}
+.about-text-sTitle {
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+.about-text-description {
+  margin: 8px 0 24px 0;
+  color: #b3aba4;
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 0.05em;
+  line-height: 1.6rem;
+}
+.fa-icon {
+  color: #ff7a18;
+}
+/* Responsive */
+@media screen and (max-width: 1000px) {
+  .about-section {
+    display: block;
+    padding: 64px 24px;
+  }
+  .about-image-content {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 32px 0;
+  }
+  .about-image1 {
+    width: 100%;
+    height: 100%;
+  }
+  .about-text-content {
+    width: 100%;
+  }
+  .about-title {
+    font-size: 32px;
+  }
+}

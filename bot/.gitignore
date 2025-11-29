@@ -1,0 +1,20 @@
+# Ignore virtual environments
+project/
+venv/
+env/
+ENV/
+Lib/
+Scripts/
+
+# Ignore cache and temp
+__pycache__/
+*.pyc
+
+# Ignore large binaries
+*.dll
+*.so
+*.zip
+
+# DO NOT ignore model files
+# (important)
+#!*.keras

@@ -1,0 +1,397 @@
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'maxp' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'maxp' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.182s to load 'maxp'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'maxp'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - maxp pruned
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - LTSH dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - VDMX dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - hdmx dropped
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'cmap' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'cmap' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.005s to load 'cmap'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'cmap'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - cmap pruned
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - fpgm dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - prep dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - cvt  dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - kern dropped
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'post' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'post' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to load 'post'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'post'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - post pruned
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - PCLT dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - JSTF dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - GPOS dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - GSUB dropped
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'glyf' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'glyf' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'loca' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'loca' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'head' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'head' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'cmap' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'cmap' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.046s to load 'glyf'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - glyf pruned
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.006s to close glyph list over 'cmap'
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3635 - Added gid0 to subset
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3708 - Closing glyph list over 'glyf': 39 glyphs before
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'A', 'C', 'D', 'F', 'L', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'V', 'W', 'Y', 'a', 'b', 'c', 'colon', 'd', 'e', 'f', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'o', 'period', 'r', 's', 'space', 't', 'u', 'v', 'y']
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 3, 17, 29, 36, 38, 39, 41, 47, 49, 50, 51, 53, 54, 55, 56, 57, 58, 60, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 85, 86, 87, 88, 89, 92]
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3714 - Closed glyph list over 'glyf': 39 glyphs after
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'A', 'C', 'D', 'F', 'L', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'V', 'W', 'Y', 'a', 'b', 'c', 'colon', 'd', 'e', 'f', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'o', 'period', 'r', 's', 'space', 't', 'u', 'v', 'y']
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 3, 17, 29, 36, 38, 39, 41, 47, 49, 50, 51, 53, 54, 55, 56, 57, 58, 60, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 85, 86, 87, 88, 89, 92]
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.002s to close glyph list over 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3767 - Retaining 39 glyphs
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - head subsetting not needed
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - hhea subsetting not needed
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - maxp subsetting not needed
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - OS/2 subsetting not needed
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'hmtx' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'hmtx' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'hhea' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'hhea' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.004s to subset 'hmtx'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - hmtx subsetted
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.003s to subset 'cmap'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - cmap subsetted
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - loca subsetting not needed
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to subset 'post'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - post subsetted
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - gasp subsetting not needed
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3790 - meta NOT subset; don't know how to subset
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'GDEF' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'GDEF' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.009s to subset 'GDEF'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - GDEF subsetted
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - name subsetting not needed
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to subset 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - glyf subsetted
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to subset GlyphOrder
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'head'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - head pruned
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'OS/2' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'OS/2' table
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3814 - OS/2 Unicode ranges pruned: [0, 1]
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3823 - OS/2 CodePage ranges pruned: [0]
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to prune 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - glyf pruned
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'GDEF'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - GDEF pruned
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'name' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'name' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'gasp' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'gasp' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'meta' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'meta' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.004s to prune 'name'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - name pruned
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'maxp' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'maxp' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to load 'maxp'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'maxp'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - maxp pruned
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - LTSH dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - VDMX dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - hdmx dropped
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'cmap' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'cmap' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to load 'cmap'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'cmap'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - cmap pruned
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - fpgm dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - prep dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - cvt  dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - kern dropped
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'post' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'post' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to load 'post'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'post'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - post pruned
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - PCLT dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - JSTF dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - GPOS dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - GSUB dropped
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'glyf' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'glyf' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'loca' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'loca' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'head' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'head' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'cmap' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'cmap' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.037s to load 'glyf'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - glyf pruned
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.013s to close glyph list over 'cmap'
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3635 - Added gid0 to subset
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3708 - Closing glyph list over 'glyf': 72 glyphs before
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'W', 'Y', 'a', 'b', 'bar', 'bullet', 'c', 'colon', 'comma', 'd', 'e', 'eight', 'equal', 'f', 'five', 'four', 'g', 'h', 'hyphen', 'i', 'j', 'k', 'l', 'm', 'n', 'nine', 'o', 'one', 'p', 'parenleft', 'parenright', 'period', 'q', 'question', 'r', 's', 'seven', 'six', 'slash', 'space', 't', 'three', 'two', 'u', 'underscore', 'v', 'w', 'x', 'y', 'z', 'zero']
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 3, 11, 12, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 32, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 53, 54, 55, 56, 58, 60, 66, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 95, 135]
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3714 - Closed glyph list over 'glyf': 72 glyphs after
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'W', 'Y', 'a', 'b', 'bar', 'bullet', 'c', 'colon', 'comma', 'd', 'e', 'eight', 'equal', 'f', 'five', 'four', 'g', 'h', 'hyphen', 'i', 'j', 'k', 'l', 'm', 'n', 'nine', 'o', 'one', 'p', 'parenleft', 'parenright', 'period', 'q', 'question', 'r', 's', 'seven', 'six', 'slash', 'space', 't', 'three', 'two', 'u', 'underscore', 'v', 'w', 'x', 'y', 'z', 'zero']
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 3, 11, 12, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 32, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 53, 54, 55, 56, 58, 60, 66, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 95, 135]
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.005s to close glyph list over 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3767 - Retaining 72 glyphs
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - head subsetting not needed
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - hhea subsetting not needed
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - maxp subsetting not needed
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - OS/2 subsetting not needed
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'hmtx' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'hmtx' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'hhea' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'hhea' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.008s to subset 'hmtx'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - hmtx subsetted
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.002s to subset 'cmap'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - cmap subsetted
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - loca subsetting not needed
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to subset 'post'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - post subsetted
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - gasp subsetting not needed
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3790 - meta NOT subset; don't know how to subset
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'GDEF' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'GDEF' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.005s to subset 'GDEF'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - GDEF subsetted
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - name subsetting not needed
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.002s to subset 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - glyf subsetted
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to subset GlyphOrder
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'head'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - head pruned
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'OS/2' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'OS/2' table
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3814 - OS/2 Unicode ranges pruned: [0, 1, 31]
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3823 - OS/2 CodePage ranges pruned: [0]
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to prune 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - glyf pruned
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'GDEF'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - GDEF pruned
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'name' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'name' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'gasp' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'gasp' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'meta' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'meta' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.002s to prune 'name'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - name pruned
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'maxp' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'maxp' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to load 'maxp'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'maxp'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - maxp pruned
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'cmap' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'cmap' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to load 'cmap'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'cmap'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - cmap pruned
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - fpgm dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - prep dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - cvt  dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - kern dropped
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'post' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'post' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to load 'post'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'post'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - post pruned
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - GPOS dropped
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - GSUB dropped
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'glyf' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'glyf' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'loca' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'loca' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'head' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'head' table
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'cmap' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'cmap' table
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.203s to load 'glyf'
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'glyf'
+2025-Nov-14 10:21:07 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - glyf pruned
+2025-Nov-14 10:21:07 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.002s to close glyph list over 'cmap'
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3635 - Added gid0 to subset
+2025-Nov-14 10:21:07 AM - __init__.py - _closure_glyphs - INFO - Line No : 3676 - Closing glyph list over 'COLR': 2 glyphs before
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'uni27A1']
+2025-Nov-14 10:21:07 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 4023]
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'COLR' table from disk
+2025-Nov-14 10:21:07 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'COLR' table
+2025-Nov-14 10:21:24 AM - __init__.py - _closure_glyphs - INFO - Line No : 3684 - Closed glyph list over 'COLR': 6 glyphs after
+2025-Nov-14 10:21:24 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'glyph04039', 'glyph33125', 'glyph33158', 'glyph57891', 'uni27A1']
+2025-Nov-14 10:21:24 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 4023, 4039, 33125, 33158, 57891]
+2025-Nov-14 10:21:24 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 16.551s to close glyph list over 'COLR'
+2025-Nov-14 10:21:24 AM - __init__.py - _closure_glyphs - INFO - Line No : 3708 - Closing glyph list over 'glyf': 6 glyphs before
+2025-Nov-14 10:21:24 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'glyph04039', 'glyph33125', 'glyph33158', 'glyph57891', 'uni27A1']
+2025-Nov-14 10:21:24 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 4023, 4039, 33125, 33158, 57891]
+2025-Nov-14 10:21:24 AM - __init__.py - _closure_glyphs - INFO - Line No : 3714 - Closed glyph list over 'glyf': 8 glyphs after
+2025-Nov-14 10:21:24 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'glyph04039', 'glyph33125', 'glyph33158', 'glyph57891', 'glyph57916', 'glyph62343', 'uni27A1']
+2025-Nov-14 10:21:24 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 4023, 4039, 33125, 33158, 57891, 57916, 62343]
+2025-Nov-14 10:21:24 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to close glyph list over 'glyf'
+2025-Nov-14 10:21:24 AM - __init__.py - _closure_glyphs - INFO - Line No : 3767 - Retaining 8 glyphs
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - head subsetting not needed
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - hhea subsetting not needed
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - maxp subsetting not needed
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - OS/2 subsetting not needed
+2025-Nov-14 10:21:24 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'hmtx' table from disk
+2025-Nov-14 10:21:24 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'hmtx' table
+2025-Nov-14 10:21:24 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'hhea' table from disk
+2025-Nov-14 10:21:24 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'hhea' table
+2025-Nov-14 10:21:24 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.061s to subset 'hmtx'
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - hmtx subsetted
+2025-Nov-14 10:21:24 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to subset 'cmap'
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - cmap subsetted
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - loca subsetting not needed
+2025-Nov-14 10:21:24 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to subset 'post'
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - post subsetted
+2025-Nov-14 10:21:24 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - gasp subsetting not needed
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 6.722s to subset 'COLR'
+2025-Nov-14 10:21:31 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - COLR subsetted
+2025-Nov-14 10:21:31 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - CPAL subsetting not needed
+2025-Nov-14 10:21:31 AM - __init__.py - _subset_glyphs - INFO - Line No : 3790 - meta NOT subset; don't know how to subset
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'GDEF' table from disk
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'GDEF' table
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to subset 'GDEF'
+2025-Nov-14 10:21:31 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - GDEF subsetted
+2025-Nov-14 10:21:31 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - name subsetting not needed
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.062s to subset 'glyf'
+2025-Nov-14 10:21:31 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - glyf subsetted
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.002s to subset GlyphOrder
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'head'
+2025-Nov-14 10:21:31 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - head pruned
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'OS/2' table from disk
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'OS/2' table
+2025-Nov-14 10:21:31 AM - __init__.py - _prune_post_subset - INFO - Line No : 3814 - OS/2 Unicode ranges pruned: []
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.016s to prune 'glyf'
+2025-Nov-14 10:21:31 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - glyf pruned
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'CPAL' table from disk
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'CPAL' table
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.049s to prune 'CPAL'
+2025-Nov-14 10:21:31 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - CPAL pruned
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'GDEF'
+2025-Nov-14 10:21:31 AM - __init__.py - _prune_post_subset - INFO - Line No : 3844 - GDEF pruned to empty; dropped
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'name' table from disk
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'name' table
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'gasp' table from disk
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'gasp' table
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'meta' table from disk
+2025-Nov-14 10:21:31 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'meta' table
+2025-Nov-14 10:21:31 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.174s to prune 'name'
+2025-Nov-14 10:21:31 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - name pruned
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'maxp' table from disk
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'maxp' table
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to load 'maxp'
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'maxp'
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - maxp pruned
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'cmap' table from disk
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'cmap' table
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to load 'cmap'
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'cmap'
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - cmap pruned
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - fpgm dropped
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - prep dropped
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - cvt  dropped
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - kern dropped
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'post' table from disk
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'post' table
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to load 'post'
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'post'
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - post pruned
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - GPOS dropped
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3579 - GSUB dropped
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'glyf' table from disk
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'glyf' table
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'loca' table from disk
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'loca' table
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'head' table from disk
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'head' table
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'cmap' table from disk
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'cmap' table
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.085s to load 'glyf'
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'glyf'
+2025-Nov-14 10:21:32 AM - __init__.py - _prune_pre_subset - INFO - Line No : 3595 - glyf pruned
+2025-Nov-14 10:21:32 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.002s to close glyph list over 'cmap'
+2025-Nov-14 10:21:32 AM - __init__.py - _closure_glyphs - INFO - Line No : 3635 - Added gid0 to subset
+2025-Nov-14 10:21:32 AM - __init__.py - _closure_glyphs - INFO - Line No : 3676 - Closing glyph list over 'COLR': 2 glyphs before
+2025-Nov-14 10:21:32 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'u1F64F']
+2025-Nov-14 10:21:32 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 2457]
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'COLR' table from disk
+2025-Nov-14 10:21:32 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'COLR' table
+2025-Nov-14 10:21:43 AM - __init__.py - _closure_glyphs - INFO - Line No : 3684 - Closed glyph list over 'COLR': 37 glyphs after
+2025-Nov-14 10:21:43 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'glyph20189', 'glyph20190', 'glyph20191', 'glyph20192', 'glyph20193', 'glyph20194', 'glyph20195', 'glyph20196', 'glyph20197', 'glyph20198', 'glyph20199', 'glyph20200', 'glyph20201', 'glyph20202', 'glyph20203', 'glyph46897', 'glyph46898', 'glyph46899', 'glyph46900', 'glyph46901', 'glyph46902', 'glyph46903', 'glyph46904', 'glyph46905', 'glyph46906', 'glyph46907', 'glyph46908', 'glyph46909', 'glyph46910', 'glyph46911', 'glyph46912', 'glyph46913', 'glyph46914', 'glyph46915', 'glyph46916', 'u1F64F']
+2025-Nov-14 10:21:43 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 2457, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 20198, 20199, 20200, 20201, 20202, 20203, 46897, 46898, 46899, 46900, 46901, 46902, 46903, 46904, 46905, 46906, 46907, 46908, 46909, 46910, 46911, 46912, 46913, 46914, 46915, 46916]
+2025-Nov-14 10:21:43 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 11.568s to close glyph list over 'COLR'
+2025-Nov-14 10:21:43 AM - __init__.py - _closure_glyphs - INFO - Line No : 3708 - Closing glyph list over 'glyf': 37 glyphs before
+2025-Nov-14 10:21:43 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'glyph20189', 'glyph20190', 'glyph20191', 'glyph20192', 'glyph20193', 'glyph20194', 'glyph20195', 'glyph20196', 'glyph20197', 'glyph20198', 'glyph20199', 'glyph20200', 'glyph20201', 'glyph20202', 'glyph20203', 'glyph46897', 'glyph46898', 'glyph46899', 'glyph46900', 'glyph46901', 'glyph46902', 'glyph46903', 'glyph46904', 'glyph46905', 'glyph46906', 'glyph46907', 'glyph46908', 'glyph46909', 'glyph46910', 'glyph46911', 'glyph46912', 'glyph46913', 'glyph46914', 'glyph46915', 'glyph46916', 'u1F64F']
+2025-Nov-14 10:21:43 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 2457, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 20198, 20199, 20200, 20201, 20202, 20203, 46897, 46898, 46899, 46900, 46901, 46902, 46903, 46904, 46905, 46906, 46907, 46908, 46909, 46910, 46911, 46912, 46913, 46914, 46915, 46916]
+2025-Nov-14 10:21:43 AM - __init__.py - _closure_glyphs - INFO - Line No : 3714 - Closed glyph list over 'glyf': 38 glyphs after
+2025-Nov-14 10:21:43 AM - __init__.py - _log_glyphs - INFO - Line No : 460 - Glyph names: ['.notdef', 'glyph20189', 'glyph20190', 'glyph20191', 'glyph20192', 'glyph20193', 'glyph20194', 'glyph20195', 'glyph20196', 'glyph20197', 'glyph20198', 'glyph20199', 'glyph20200', 'glyph20201', 'glyph20202', 'glyph20203', 'glyph46897', 'glyph46898', 'glyph46899', 'glyph46900', 'glyph46901', 'glyph46902', 'glyph46903', 'glyph46904', 'glyph46905', 'glyph46906', 'glyph46907', 'glyph46908', 'glyph46909', 'glyph46910', 'glyph46911', 'glyph46912', 'glyph46913', 'glyph46914', 'glyph46915', 'glyph46916', 'glyph60553', 'u1F64F']
+2025-Nov-14 10:21:43 AM - __init__.py - _log_glyphs - INFO - Line No : 463 - Glyph IDs:   [0, 2457, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 20198, 20199, 20200, 20201, 20202, 20203, 46897, 46898, 46899, 46900, 46901, 46902, 46903, 46904, 46905, 46906, 46907, 46908, 46909, 46910, 46911, 46912, 46913, 46914, 46915, 46916, 60553]
+2025-Nov-14 10:21:43 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to close glyph list over 'glyf'
+2025-Nov-14 10:21:43 AM - __init__.py - _closure_glyphs - INFO - Line No : 3767 - Retaining 38 glyphs
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - head subsetting not needed
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - hhea subsetting not needed
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - maxp subsetting not needed
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - OS/2 subsetting not needed
+2025-Nov-14 10:21:43 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'hmtx' table from disk
+2025-Nov-14 10:21:43 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'hmtx' table
+2025-Nov-14 10:21:43 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'hhea' table from disk
+2025-Nov-14 10:21:43 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'hhea' table
+2025-Nov-14 10:21:43 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.027s to subset 'hmtx'
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - hmtx subsetted
+2025-Nov-14 10:21:43 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to subset 'cmap'
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - cmap subsetted
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - loca subsetting not needed
+2025-Nov-14 10:21:43 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to subset 'post'
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - post subsetted
+2025-Nov-14 10:21:43 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - gasp subsetting not needed
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 4.260s to subset 'COLR'
+2025-Nov-14 10:21:48 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - COLR subsetted
+2025-Nov-14 10:21:48 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - CPAL subsetting not needed
+2025-Nov-14 10:21:48 AM - __init__.py - _subset_glyphs - INFO - Line No : 3790 - meta NOT subset; don't know how to subset
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'GDEF' table from disk
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'GDEF' table
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.001s to subset 'GDEF'
+2025-Nov-14 10:21:48 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - GDEF subsetted
+2025-Nov-14 10:21:48 AM - __init__.py - _subset_glyphs - INFO - Line No : 3777 - name subsetting not needed
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.062s to subset 'glyf'
+2025-Nov-14 10:21:48 AM - __init__.py - _subset_glyphs - INFO - Line No : 3788 - glyf subsetted
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.002s to subset GlyphOrder
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'head'
+2025-Nov-14 10:21:48 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - head pruned
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'OS/2' table from disk
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'OS/2' table
+2025-Nov-14 10:21:48 AM - __init__.py - _prune_post_subset - INFO - Line No : 3814 - OS/2 Unicode ranges pruned: [57]
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.009s to prune 'glyf'
+2025-Nov-14 10:21:48 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - glyf pruned
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'CPAL' table from disk
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'CPAL' table
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.047s to prune 'CPAL'
+2025-Nov-14 10:21:48 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - CPAL pruned
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.000s to prune 'GDEF'
+2025-Nov-14 10:21:48 AM - __init__.py - _prune_post_subset - INFO - Line No : 3844 - GDEF pruned to empty; dropped
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'name' table from disk
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'name' table
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'gasp' table from disk
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'gasp' table
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 464 - Reading 'meta' table from disk
+2025-Nov-14 10:21:48 AM - ttFont.py - _readTable - DEBUG - Line No : 473 - Decompiling 'meta' table
+2025-Nov-14 10:21:48 AM - loggingTools.py - __exit__ - DEBUG - Line No : 357 - Took 0.184s to prune 'name'
+2025-Nov-14 10:21:48 AM - __init__.py - _prune_post_subset - INFO - Line No : 3847 - name pruned
+2025-Nov-14 10:21:48 AM - utils.py - createPDF - INFO - Line No : 50 - Created PDF File
+2025-Nov-14 10:22:04 AM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1006
+2025-Nov-16 07:03:45 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1006
+2025-Nov-16 07:38:52 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1001
+2025-Nov-27 04:39:48 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1006
+2025-Nov-27 04:55:24 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1005
+2025-Nov-28 04:49:42 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1006
+2025-Nov-28 05:05:19 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1001
+2025-Nov-28 11:10:24 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1006
+2025-Nov-28 11:11:20 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1001
+2025-Nov-28 11:11:23 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1006
+2025-Nov-28 11:14:22 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1001
+2025-Nov-28 11:14:26 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1006
+2025-Nov-28 11:20:42 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1005
+2025-Nov-28 11:22:01 PM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1005
+2025-Nov-29 07:40:53 AM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1001
+2025-Nov-29 07:43:19 AM - app.py - chatsocket - ERROR - Line No : 48 - Disconnected from  and 1005

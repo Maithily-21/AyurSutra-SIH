@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Google Fonts */
+@layer base {
+  @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&family=Playpen+Sans:wght@300;400;500;600;700&display=swap");
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  :root {
+    --ay-bg: #050505;
+    --ay-surface: #111;
+    --ay-muted: #d0c7c0;
+    --ay-accent: #ff7a18;
+    --ay-accent-strong: #ff5300;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: "Poppins", sans-serif;
+    background-color: var(--ay-bg);
+    color: #111110;
+  }
+
+  /* Custom Scroll Bar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: rgba(255, 255, 255, 0.08);
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: var(--ay-accent);
+    border-radius: 4rem;
+  }
+}

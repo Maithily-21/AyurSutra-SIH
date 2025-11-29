@@ -1,0 +1,38 @@
+.chatbot-btn {
+  background: linear-gradient(135deg, #ffb347, #ff7a18);
+  color: #050505;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  position: fixed;
+  align-items: center;
+  z-index: 30;
+  bottom: 10%;
+  right: 4%;
+  padding: 12px 20px;
+  border: 1px solid transparent;
+  border-radius: 50px;
+  box-shadow: 0 20px 40px rgba(255, 122, 24, 0.35);
+}
+
+.chatbot-btn-background {
+  opacity: 0.25;
+  bottom: 8%;
+  right: 3%;
+  background-color: #ffb34755;
+}
+
+.chatbot-btn:hover {
+  color: #050505;
+  background: #ffe8d2;
+  border: 1px solid #ff7a18;
+  transition: all 0.3s ease;
+  box-shadow: 0 25px 50px rgba(255, 122, 24, 0.4);
+}
+
+.chatbot-helper {
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
